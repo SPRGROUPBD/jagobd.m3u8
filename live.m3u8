@@ -1,45 +1,15 @@
-{
-  "LiveEvent": [
-    {
-      "bottom": "vs",
-      "id": "0",
-      "logo1": "https://ssl.gstatic.com/onebox/media/sports/logos/-I9tpg9uetJjQNCh15jmKw_96x96.png",
-      "logo2": "https://ssl.gstatic.com/onebox/media/sports/logos/uTQstsRqQKZC-VUZWaNi0w_96x96.png",
-      "name": "Pakistan Super League",
-      "name1": "Pakistan",
-      "name2": "Bangladesh",
-      "schedule": "Live",
-      "url": "http://tv.cloudcdn.me/live/00:1A:79:B7:2F:EA/SN_1697176355/48010.m3u8"
-    }
-  ],
-  "PrivateCode": {
-    "PrivateCode": {
-      "PrivateCode": "2334"
-    }
+[
+  {
+    "name": "BAN vs IND VIP",
+    "link": "https://mprod-cdn.toffeelive.com/live/match-2/index.m3u8",
+    "logo": "https://images.toffeelive.com/images/program/208144/logo/240x240/mobile_logo_166888001726636116.png",
+    "origin": "https://mprod-cdn.toffeelive.com",
+    "referrer": "",
+    "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1727278483:KeyName=prod_live_events:Signature=wZJADKsQw4gBFvkBd6huu0TM9VOLcdTPftmbHZ8OyQJFFRpWrG6JqK8ErkurTcnLrfuBz7LRl3MiLPAr9ItjCA",
+    "drmScheme": "",
+    "drmLicense": ""
   },
-  "category": [
-    {
-      "id": "0",
-      "logo": "https://cdn.pixabay.com/animation/2022/08/01/03/43/03-43-08-674_512.gif",
-      "name": "Bangladeshi TV"
-    },
-    {
-      "id": "1",
-      "logo": "https://mir-s3-cdn-cf.behance.net/project_modules/disp/85f144126528627.612f5260eefca.gif",
-      "name": "Sport"
-    },
-    {
-      "id": "2",
-      "logo": "",
-      "name": "Kids"
-    },
-    {
-      "id": "3",
-      "logo": "",
-      "name": "test"
-    }
-  ],
-  "channels": [
     {
       "Status": "",
       "id": "0",
