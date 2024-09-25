@@ -345,20 +345,16 @@
       "logo": "",
       "name": "sgold",
       "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1726541144/ei/-JjoZqqXO9eJ6dsPqbraoQc/ip/86.107.43.88/id/xEl7I8pN-C0.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/54MbxWTsof_G6kfc221_8wz98Xfdp1kKYmcZqiq9Mk-mKH7MEEDMf61a4NAMR9U/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgIIbF3WBKhBrwMOtnPuVqykN30tbhRCE_9Xz4mc0oFVwCIQDvV1ugdIx-eF1rNB4ecxHjHiPCq_bODLC6xRpRCdJi7w%3D%3D/file/index.m3u8"
-    }
-  ],
-  "slider": {
-    "slider": {
-      "image1": "https://i.postimg.cc/SsMdq0Rm/Screenshot-20240829-220943-2.png",
-      "image2": "",
-      "image3": "",
-      "image4": "",
-      "image5": "",
-      "link1": "https://upload-apk.com/en/9Sl1DdiKxw7VlyC",
-      "link2": "https://upload-apk.com/en/9Sl1DdiKxw7VlyC",
-      "link3": "https://upload-apk.com/en/9Sl1DdiKxw7VlyC",
-      "link4": "https://upload-apk.com/en/9Sl1DdiKxw7VlyC",
-      "link5": "https://upload-apk.com/en/9Sl1DdiKxw7VlyC"
-    }
+    },
+    {
+    "name": "B4U Movies VIP",
+    "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/b4u_movies/playlist.m3u8",
+    "logo": "https://images.toffeelive.com/images/program/366/logo/240x240/mobile_logo_702115001663003759.png",
+    "origin": "https://bldcmprod-cdn.toffeelive.com",
+    "referrer": "",
+    "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1727400693:KeyName=prod_linear:Signature=iIKQBOqr-nk6tfjxrwlrWKenyPWL-Okrf40llx3EO4Po5JHQ9MVsH2Ed-dzBwJ6rPyYNBe09yrPLTLGKdX5HDA",
+    "drmScheme": "",
+    "drmLicense": ""
   }
-}
+]
