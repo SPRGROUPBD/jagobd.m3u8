@@ -1,0 +1,394 @@
+{
+  "LiveEvent": [
+    {
+      "bottom": "vs",
+      "id": "0",
+      "logo1": "https://ssl.gstatic.com/onebox/media/sports/logos/-I9tpg9uetJjQNCh15jmKw_96x96.png",
+      "logo2": "https://ssl.gstatic.com/onebox/media/sports/logos/uTQstsRqQKZC-VUZWaNi0w_96x96.png",
+      "name": "Pakistan Super League",
+      "name1": "Pakistan",
+      "name2": "Bangladesh",
+      "schedule": "Live",
+      "url": "http://tv.cloudcdn.me/live/00:1A:79:B7:2F:EA/SN_1697176355/48010.m3u8"
+    }
+  ],
+  "PrivateCode": {
+    "PrivateCode": {
+      "PrivateCode": "2334"
+    }
+  },
+  "category": [
+    {
+      "id": "0",
+      "logo": "https://cdn.pixabay.com/animation/2022/08/01/03/43/03-43-08-674_512.gif",
+      "name": "Bangladeshi TV"
+    },
+    {
+      "id": "1",
+      "logo": "https://mir-s3-cdn-cf.behance.net/project_modules/disp/85f144126528627.612f5260eefca.gif",
+      "name": "Sport"
+    },
+    {
+      "id": "2",
+      "logo": "",
+      "name": "Kids"
+    },
+    {
+      "id": "3",
+      "logo": "",
+      "name": "test"
+    }
+  ],
+  "channels": [
+    {
+      "Status": "",
+      "id": "0",
+      "key": "0",
+      "logo": "https://edge01.iptv.digijadoo.net/static/deepto_tv.png",
+      "name": "Deepto TV",
+      "url": "https://app.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/deeptotv.stream/playlist.m3u8"
+    },
+    {
+      "Status": "",
+      "id": "0",
+      "key": "1",
+      "logo": "https://images.toffeelive.com/images/program/335/logo/240x240/mobile_logo_946452001655891077.png",
+      "name": "DBC News",
+      "url": "https://app.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/dbcnews.stream/playlist.m3u8"
+    },
+    {
+      "Status": "",
+      "id": "0",
+      "key": "2",
+      "logo": "https://images.toffeelive.com/images/program/3/logo/240x240/mobile_logo_694865001655890816.png",
+      "name": "Channel I",
+      "url": "https://bitrate.rockstreamer.com:30443/chlive/121212/chunks.m3u8"
+    },
+    {
+      "Status": "",
+      "id": "0",
+      "key": "3",
+      "logo": "https://images.toffeelive.com/images/program/236/logo/240x240/mobile_logo_341242001655891063.png",
+      "name": "Boishakhi TV",
+      "url": "https://app.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/boishakhitv-org.stream/playlist.m3u8"
+    },
+    {
+      "Status": "",
+      "id": "0",
+      "key": "4",
+      "logo": "https://images.toffeelive.com/images/program/374/logo/240x240/mobile_logo_179345001655891258.png",
+      "name": "Bijoy TV",
+      "url": "https://app.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/bijoy00.stream/playlist.m3u8"
+    },
+    {
+      "Status": "",
+      "id": "0",
+      "key": "5",
+      "logo": "https://images.toffeelive.com/images/program/337/logo/240x240/mobile_logo_519481001656610377.png",
+      "name": "Banglavision HD",
+      "url": "https://app.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/banglav000.stream/playlist.m3u8"
+    },
+    {
+      "Status": "",
+      "id": "0",
+      "key": "6",
+      "logo": "https://images.toffeelive.com/images/program/375/logo/240x240/mobile_logo_453885001655891270.png",
+      "name": "Bangla TV",
+      "url": "https://app.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/banglatvhd.stream/playlist.m3u8"
+    },
+    {
+      "Status": "",
+      "id": "0",
+      "key": "7",
+      "logo": "https://images.toffeelive.com/images/program/38/logo/240x240/mobile_logo_483871001656610198.png",
+      "name": "ATN Bangla",
+      "url": "https://app.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbd-8-org.stream/playlist.m3u8"
+    },
+    {
+      "Status": "",
+      "id": "0",
+      "key": "8",
+      "logo": "https://images.toffeelive.com/images/program/65/logo/240x240/mobile_logo_703286001655891016.png",
+      "name": "Somoy TV",
+      "url": "https://app.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/somoyt000011226615544544.stream/playlist.m3u8"
+    },
+    {
+      "Status": "",
+      "id": "0",
+      "key": "9",
+      "logo": "https://edge01.iptv.digijadoo.net/static/sa_tv.png",
+      "name": "SATV",
+      "url": "https://app.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/satvoff5666.stream/playlist.m3u8"
+    },
+    {
+      "Status": "",
+      "id": "0",
+      "key": "10",
+      "logo": "https://images.toffeelive.com/images/program/338/logo/240x240/mobile_logo_401499001655891091.png",
+      "name": "RTV HD",
+      "url": "https://app.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/rtv-sg.stream/playlist.m3u8"
+    },
+    {
+      "Status": "",
+      "id": "0",
+      "key": "11",
+      "logo": "https://images.toffeelive.com/images/program/177468/logo/240x240/mobile_logo_382457001694586201.png",
+      "name": "Rajdhani TV",
+      "url": "https://app.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/rajdhanitv.stream/playlist.m3u8"
+    },
+    {
+      "Status": "",
+      "id": "0",
+      "key": "12",
+      "logo": "https://images.toffeelive.com/images/program/41/logo/240x240/mobile_logo_811238001673183089.png",
+      "name": "NTV",
+      "url": "https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ntvuk00332211.stream/playlist.m3u8"
+    },
+    {
+      "Status": "",
+      "id": "0",
+      "key": "13",
+      "logo": "https://edge01.iptv.digijadoo.net/static/nexus_tv.png",
+      "name": "Nexus TV",
+      "url": "https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/nexustv.stream/playlist.m3u8"
+    },
+    {
+      "Status": "",
+      "id": "0",
+      "key": "14",
+      "logo": "https://images.toffeelive.com/images/program/233/logo/240x240/mobile_logo_146142001655891039.png",
+      "name": "News 24",
+      "url": "https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/news24local.stream/playlist.m3u8"
+    },
+    {
+      "Status": "",
+      "id": "0",
+      "key": "15",
+      "logo": "https://images.toffeelive.com/images/program/12282/logo/240x240/mobile_logo_671378001663674667.png",
+      "name": "Movie Bangla",
+      "url": "https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/moviebanglalink2.stream/playlist.m3u8"
+    },
+    {
+      "Status": "",
+      "id": "0",
+      "key": "16",
+      "logo": "https://images.toffeelive.com/images/program/368/logo/240x240/mobile_logo_784215001656610543.png",
+      "name": "Mohona TV",
+      "url": "https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/mohonatv00000223232244556633.stream/playlist.m3u8"
+    },
+    {
+      "Status": "",
+      "id": "0",
+      "key": "17",
+      "logo": "https://images.toffeelive.com/images/program/46/logo/240x240/mobile_logo_222968001673182917.png",
+      "name": "Jamuna TV",
+      "url": "https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/jamuna-test-sample-ok.stream/playlist.m3u8"
+    },
+    {
+      "Status": "",
+      "id": "0",
+      "key": "18",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2024/08/jagonews.jpg",
+      "name": "JagoNews24 TV",
+      "url": "https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/jagonews24.stream/playlist.m3u8"
+    },
+    {
+      "Status": "",
+      "id": "0",
+      "key": "19",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2015/10/inds.png?x13834",
+      "name": "Independent TV",
+      "url": "https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/independent-8-org.stream/playlist.m3u8"
+    },
+    {
+      "Status": "",
+      "id": "0",
+      "key": "20",
+      "logo": "https://images.toffeelive.com/images/program/274798/logo/240x240/mobile_logo_356775001706617066.png",
+      "name": "Green TV",
+      "url": "https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/playlist.m3u8"
+    },
+    {
+      "Status": "",
+      "id": "0",
+      "key": "21",
+      "logo": "https://images.toffeelive.com/images/program/274186/logo/240x240/mobile_logo_177557001706616684.png",
+      "name": "Ekhon TV",
+      "url": "https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/globaltv.stream/playlist.m3u8"
+    },
+    {
+      "Status": "",
+      "id": "0",
+      "key": "22",
+      "logo": "https://images.toffeelive.com/images/program/39/logo/240x240/mobile_logo_569553001668421527.png",
+      "name": "Desh TV",
+      "url": "https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/deshtv.stream/live-orgin/deshtv.stream/chunks.m3u8"
+    },
+    {
+      "Status": "",
+      "id": "0",
+      "key": "23",
+      "logo": "https://images.toffeelive.com/images/program/53/logo/240x240/mobile_logo_107276001655890949.png",
+      "name": "Ekattor TV",
+      "url": "https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ekattor.stream/live-orgin/ekattor.stream/chunks.m3u8"
+    },
+    {
+      "Status": "",
+      "id": "0",
+      "key": "24",
+      "logo": "",
+      "name": "tt",
+      "url": "https://api.flixtronic.top/hex.m3u8?id=02"
+    },
+    {
+      "Status": "",
+      "id": "1",
+      "key": "25",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",
+      "name": "T Sport HD",
+      "url": "https://hotflix-bd.online/GTV/index.m3u8"
+    },
+    {
+      "Status": "",
+      "id": "1",
+      "key": "26",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png",
+      "name": "GTV HD",
+      "url": "https://edge01.iptv.digijadoo.net/live/gazi_tv_hd/playlist.m3u8?md5=9GWYvhg7P47QDNtB1a8RbQ&expires=1725980862&user=d477246e9e724f81a011b847457e71c4"
+    },
+    {
+      "Status": "live",
+      "id": "1",
+      "key": "27",
+      "logo": "/sdcard/.transforms/synthetic/picker_get_content/0/com.android.providers.media.photopicker/media/1000007031.gif",
+      "name": "Aristo Cricket",
+      "url": "https://api.flixtronic.top/test/hex.m3u8?id=167581"
+    },
+    {
+      "Status": "Live",
+      "id": "1",
+      "key": "28",
+      "logo": "/storage/emulated/0/Download/Screenshot_20240830-072527~2.png",
+      "name": "Sony Live",
+      "url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI08ME-V3/master_mdh.m3u8?hdnea=st=1725503640~exp=1725503940~acl=*~id=f410ccf2-d729-4b5f-b916-30f92cfdc2e6~hmac=77f25005044fd3ae62016e0c8eb368036da69f2f62b427522b6785b3a87f62f0&originpath=/linear/hls/pb/event/wchc-yRfS6Oq1EK97fcrIg/stream/fee08a30-8d80-436a-aace-c0ffdbbba926:SIN/master.m3u8"
+    },
+    {
+      "Status": "live",
+      "id": "1",
+      "key": "29",
+      "logo": "none",
+      "name": "Aristo Super ",
+      "url": "https://cdn.whystream.pro:8089/hls/ujwsgck5Vjwh/index.m3u8"
+    },
+    {
+      "Status": "",
+      "id": "1",
+      "key": "30",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png",
+      "name": "A Sport",
+      "url": "http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8"
+    },
+    {
+      "Status": "",
+      "id": "1",
+      "key": "31",
+      "logo": "none",
+      "name": "PTV Sport",
+      "url": "http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8"
+    },
+    {
+      "Status": "live",
+      "id": "1",
+      "key": "32",
+      "logo": "none",
+      "name": "Toffee Sport",
+      "url": "https://mprod-cdn.toffeelive.com/live/match-2/index.m3u8?|Cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1726846371:KeyName=prod_live_events:Signature=rzKtSPFsw_ztCrPVsaeDpckwIK9lid8nJ4SSqPcuQZW6ENmldhMT4BE25a0FCn87K_XP3YXqWKTcTd5UM_H7BA"
+    },
+    {
+      "Status": "",
+      "id": "1",
+      "key": "33",
+      "logo": "none",
+      "name": "a",
+      "url": ""
+    },
+    {
+      "Status": "",
+      "id": "1",
+      "key": "34",
+      "logo": "none",
+      "name": "a",
+      "url": ""
+    },
+    {
+      "Status": "",
+      "id": "1",
+      "key": "35",
+      "logo": "none",
+      "name": "a",
+      "url": ""
+    },
+    {
+      "Status": "",
+      "id": "1",
+      "key": "36",
+      "logo": "none",
+      "name": "a",
+      "url": ""
+    },
+    {
+      "Status": "",
+      "id": "2",
+      "key": "37",
+      "logo": "",
+      "name": "yay",
+      "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_yay/playlist.m3u8?|Cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1725883637:KeyName=prod_linear:Signature=kJymzYLTyAnLyljt8giIqUEUA_KHkHxtEbErI232IfDgiCQInt6oB25s_EUzs-NGUASkgylKhUsVrVTEq13nBw"
+    },
+    {
+      "Status": "",
+      "id": "0",
+      "key": "38",
+      "logo": "",
+      "name": "9",
+      "url": "http://176.119.29.52/live.ts?channelId=88&uid=8164&deviceMac=00:1A:79:17:D4:A1"
+    },
+    {
+      "Status": "",
+      "id": "0",
+      "key": "39",
+      "logo": "",
+      "name": "News 24 HD",
+      "url": "https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/news24local.stream/playlist.m3u8"
+    },
+    {
+      "Status": "",
+      "id": "3",
+      "key": "40",
+      "logo": "",
+      "name": "sgold",
+      "url": "http://150.242.202.110/yuvraj/jazz/master.ts?id=10831000000001"
+    },
+    {
+      "Status": "",
+      "id": "3",
+      "key": "41",
+      "logo": "",
+      "name": "sgold",
+      "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1726541144/ei/-JjoZqqXO9eJ6dsPqbraoQc/ip/86.107.43.88/id/xEl7I8pN-C0.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/54MbxWTsof_G6kfc221_8wz98Xfdp1kKYmcZqiq9Mk-mKH7MEEDMf61a4NAMR9U/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgIIbF3WBKhBrwMOtnPuVqykN30tbhRCE_9Xz4mc0oFVwCIQDvV1ugdIx-eF1rNB4ecxHjHiPCq_bODLC6xRpRCdJi7w%3D%3D/file/index.m3u8"
+    }
+  ],
+  "slider": {
+    "slider": {
+      "image1": "https://i.postimg.cc/SsMdq0Rm/Screenshot-20240829-220943-2.png",
+      "image2": "",
+      "image3": "",
+      "image4": "",
+      "image5": "",
+      "link1": "https://upload-apk.com/en/9Sl1DdiKxw7VlyC",
+      "link2": "https://upload-apk.com/en/9Sl1DdiKxw7VlyC",
+      "link3": "https://upload-apk.com/en/9Sl1DdiKxw7VlyC",
+      "link4": "https://upload-apk.com/en/9Sl1DdiKxw7VlyC",
+      "link5": "https://upload-apk.com/en/9Sl1DdiKxw7VlyC"
+    }
+  }
+}
